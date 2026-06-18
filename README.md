@@ -27,4 +27,4 @@ Cloud       Microsoft Azure · CI/CD
 
 - Portfolio — https://asimyaramis.netlify.app
 - Email — asimyaramis19@gmail.com
-- LinkedIn — _add your URL_
+- LinkedIn — https://www.linkedin.com/in/asimyaramis
