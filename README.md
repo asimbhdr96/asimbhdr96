@@ -1,4 +1,4 @@
-@ -0,0 +1,29 @@
+
 # Bahadir Yaramis
 
 **React Native & Full-Stack Engineer — Dallas, TX**
